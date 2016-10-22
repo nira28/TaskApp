@@ -40,4 +40,4 @@ _設計資料リンク_
 - タスクに紐づく場所に近づいたら通知
 
 ### 画面遷移図
-
+![画面遷移](https://github.com/nira28/TaskApp/blob/master/files/screen.png)
